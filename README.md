@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 228 · **Forks**: 36 · **Open issues**: 40 · **Contributors**: 40
+- **Stars**: 228 · **Forks**: 37 · **Open issues**: 40 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 42 · **Open PRs**: 1 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 132
+- **Releases**: 0 · **Merged PRs**: 42 · **Open PRs**: 3 · **Closed issues**: 32 · **Open issues**: 8 · **Commits**: 132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 0 | 0 | 0 | 1 | 1 | 1 |
-| 360d | 2025-10-21 | 0 | 1 | 0 | 1 | 1 | 4 |
-| last720d | 2024-10-26 | 0 | 4 | 1 | 1 | 1 | 5 |
+| 30d | 2026-09-17 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-19 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-04-20 | 0 | 0 | 2 | 1 | 1 | 1 |
+| 360d | 2025-10-22 | 0 | 1 | 2 | 1 | 1 | 4 |
+| last720d | 2024-10-27 | 0 | 4 | 3 | 1 | 1 | 5 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for athenacli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:27:07Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:16:16Z._
