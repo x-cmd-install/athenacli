@@ -1,0 +1,7 @@
+- repo: homebrew
+  srcname: athenacli
+  visiblename: athenacli
+  version: 1.7.0
+  origversion: null
+  status: unique
+  summary: CLI tool for AWS Athena service
